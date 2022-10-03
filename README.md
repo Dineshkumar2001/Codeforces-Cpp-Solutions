@@ -1,2 +1,2 @@
 # Codeforces-Cpp-Solutions
-In this repository you can find all the codeforces solutions in C++ programming language
+In this repository you can find all the codeforces practice question solutions in C++ programming language
